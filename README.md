@@ -1,18 +1,15 @@
 # MixA-seq
 1. Create an empty folder
 2. Prepare fast_5_barcode
- >\>fast_barcode
-
+ >\>fast_barcode  
 GACTGCGTACG
+
 3. Prepare fast_3_barcode
- >\>p3-K3-33
-
-TGGTGTCAAACC
->\>p3-K17-39
-
-TGGATACAAACC 
->\>p3-sample name
-
+ >\>p3-K3-33  
+TGGTGTCAAACC  
+>\>p3-K17-39  
+TGGATACAAACC  
+>\>p3-sample name  
 TATTATCAAACC
 
 #-Sequence name must start with `p3-`
